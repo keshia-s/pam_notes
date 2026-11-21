@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "36349288162",
+    "project_id": "pam-notes-42325029",
+    "storage_bucket": "pam-notes-42325029.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36349288162:android:feb4fbf698288cc45608bb",
+        "android_client_info": {
+          "package_name": "del.ac.id.pam_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36349288162-7m213cj7kga4mbbs953004ec4mgcl1pv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "del.ac.id.pam_notes",
+            "certificate_hash": "341697affdaf4439cba1ad38f31691c380fa1518"
+          }
+        },
+        {
+          "client_id": "36349288162-diojfklcm2lv80fr4bo0ku3pl6483s7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCLW_quoZd-beZ-ki5aqR6pUiZOv8IJzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36349288162-diojfklcm2lv80fr4bo0ku3pl6483s7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
